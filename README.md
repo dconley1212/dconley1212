@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Dave Conley
 
 - 🔭 Building an app to help my wife water her plants on time!
 - 🌱 I’m currently learning Javascript, React, Express, and Node.js. If you have any tips or would like to connect about an opportunity, I have put my contact information below.
