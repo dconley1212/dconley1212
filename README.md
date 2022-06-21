@@ -1,8 +1,11 @@
 ### Hi 👋, I'm Dave Conley
 
-- 🔭 Recently, built an app to help a user be able to keep track of all of their plants and how often they should water each one. It is a full stack application that I built and deployed on Heroku. It is in my github repository called build-week-scaffolding-node. Some feature highlights include building login capability, rest api on an express server with get, post, put, delete endpoints for plant data, and the ability for a user to upload a plant image to their plant card that is saved in an Amazon s3 bucket.
+- 🔭 Recently, built an app for users to keep track of all of their plants and how often they should water each one. It is a full stack application that I built and deployed on Heroku. It is called build-week-scaffolding-node in my github repository. Some feature highlights include building login capability with encrypted passwords, rest api on an express server with get, post, put, delete endpoints for plant data and login credentials, and the ability for a user to upload a plant image to their plant card that is saved in an Amazon s3 bucket.
+
 - 🌱 I have a solid foundation in Javascript, React, Express, and Node.js. I am currenly learning Typscript by using it in the new project I am working on in my github repository called medicalSymptomsFE. If you have any tips or would like to connect about an opportunity, I have put my contact information below.
+
 - 📫 How to reach me: dconley1989@gmail.com
+
 - Fun Fact about me: I have driven from the Atlantic Ocean to the Pacific Ocean in one day.  Happy to explain more if you're curious! Connect with me on Linkedin: https://www.linkedin.com/in/dave-conley-7b59385a/
 
 <h3 align="left">Connect with me:</h3>
