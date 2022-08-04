@@ -1,16 +1,12 @@
 ### Hi 👋, I'm Dave Conley
 
-- 🔭 Most Recently, I started a project where I decided to learn typescript and use it in my project. I wanted to sharpen my redux skills, so I made sure to incorporate redux on the front-end. The project is called medicalSymptomsFE, which I have been working on the last month and a half. It has been so much fun! Obviously, there have been frustrating days when I run into problems, but I find so much joy in watching my ability grow and putting the work in every day. 
-
-  I plan to continue to add more to the front-end of the project, but I will now start to focus more on the backend and sharpen my skills of using      typscript, node.js, and express together to build some of the rest api's to login and logout. I plan to eventually add the knex orm to speak to my postgress database and manage the data of my users as they hit the REST api's I will create.
+- 🔭 Most Recently, I started a project where I decided to learn typescript and use it in my project. I wanted to sharpen my redux skills, so I made sure to incorporate redux on the front-end. The project is called medicalSymptomsFE, which I have been working on the last month and a half. It has been so much fun! Obviously, there have been frustrating days when I run into problems, but I find so much joy in watching my ability grow and putting the work in every day.
 
 - 🔭 Additioanlly, a couple months back I built an app for users to keep track of all of their plants and how often they should water each one. It is a full stack application that I built and deployed on Heroku. It is called build-week-scaffolding-node in my github repository. Some feature highlights include building login capability with encrypted passwords, rest api on an express server with get, post, put, delete endpoints for plant data and login credentials, and the ability for a user to upload a plant image to their plant card that is saved in an Amazon s3 bucket.
 
-- 🌱 I have solid knowledge and experience in Javascript, React, Express, and Node.js. I am currenly learning Typscript in the new project I am building that is found in my github repository called medicalSymptomsFE. If you have any tips or would like to connect about an opportunity, I have put my contact information below.
+- 🌱 I know Javascript, React, Redux, TypeScript, Express, and Node.js. If you have any tips or would like to connect about an opportunity, I have put my contact information below.
 
-- 📫 How to reach me: dconley1989@gmail.com
-
-- Fun Fact about me: I have driven from the Atlantic Ocean to the Pacific Ocean in one day. That fact is a good conversation starter if you would want to connect and learn more about me :) Connect with me on Linkedin: https://www.linkedin.com/in/dave-conley-7b59385a/
+- 📫 How to reach me: dconley1989@gmail.com, Linkedin: https://www.linkedin.com/in/dave-conley/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
